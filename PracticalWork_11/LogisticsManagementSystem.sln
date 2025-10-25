@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticsManagementSystem", "LogisticsManagementSystem\LogisticsManagementSystem.csproj", "{B88A5C09-5D15-412B-9656-0AD93C4E4D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{DD4E851B-8E73-4126-85ED-2267B4291768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88A5C09-5D15-412B-9656-0AD93C4E4D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88A5C09-5D15-412B-9656-0AD93C4E4D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88A5C09-5D15-412B-9656-0AD93C4E4D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88A5C09-5D15-412B-9656-0AD93C4E4D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4E851B-8E73-4126-85ED-2267B4291768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4E851B-8E73-4126-85ED-2267B4291768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4E851B-8E73-4126-85ED-2267B4291768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4E851B-8E73-4126-85ED-2267B4291768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47E2D7F7-FF02-41E0-A52B-10246AD2B2D2}
+	EndGlobalSection
+EndGlobal
