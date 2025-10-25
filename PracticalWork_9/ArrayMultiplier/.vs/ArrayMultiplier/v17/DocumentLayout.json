@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ttip\\\u0414\u0418\u0421\u0426\u0418\u041F\u041B\u0418\u041D\u042B 3 \u041A\u0423\u0420\u0421\\PiTPM\\Practicalwork_PiTPM Sakara\\PracticalWork_9\\ArrayMultiplier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{474AE3A7-0D37-45AC-BB16-6391CA878E63}|ArrayMultiplier.csproj|d:\\ttip\\\u0434\u0438\u0441\u0446\u0438\u043F\u043B\u0438\u043D\u044B 3 \u043A\u0443\u0440\u0441\\pitpm\\practicalwork_pitpm sakara\\practicalwork_9\\arraymultiplier\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474AE3A7-0D37-45AC-BB16-6391CA878E63}|ArrayMultiplier.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5505C2EA-1279-4563-A7E8-9A75FBF647C5}|..\\TestProject\\TestProject.csproj|d:\\ttip\\\u0434\u0438\u0441\u0446\u0438\u043F\u043B\u0438\u043D\u044B 3 \u043A\u0443\u0440\u0441\\pitpm\\practicalwork_pitpm sakara\\practicalwork_9\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1344,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Ttip\\\u0414\u0418\u0421\u0426\u0418\u041F\u041B\u0418\u041D\u042B 3 \u041A\u0423\u0420\u0421\\PiTPM\\Practicalwork_PiTPM Sakara\\PracticalWork_9\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject\\UnitTest1.cs",
+              "ToolTip": "D:\\Ttip\\\u0414\u0418\u0421\u0426\u0418\u041F\u041B\u0418\u041D\u042B 3 \u041A\u0423\u0420\u0421\\PiTPM\\Practicalwork_PiTPM Sakara\\PracticalWork_9\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T07:46:10.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Ttip\\\u0414\u0418\u0421\u0426\u0418\u041F\u041B\u0418\u041D\u042B 3 \u041A\u0423\u0420\u0421\\PiTPM\\Practicalwork_PiTPM Sakara\\PracticalWork_9\\ArrayMultiplier\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "D:\\Ttip\\\u0414\u0418\u0421\u0426\u0418\u041F\u041B\u0418\u041D\u042B 3 \u041A\u0423\u0420\u0421\\PiTPM\\Practicalwork_PiTPM Sakara\\PracticalWork_9\\ArrayMultiplier\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T07:45:42.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 640,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 640,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

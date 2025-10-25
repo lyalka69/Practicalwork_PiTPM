@@ -1,0 +1,12 @@
+D:\Ttip\c# ОАиП\Chapter01\bin\Debug\Chapter01.dll
+D:\Ttip\c# ОАиП\Chapter01\bin\Debug\Chapter01.pdb
+D:\Ttip\c# ОАиП\Chapter01\obj\Debug\Chapter01.csproj.AssemblyReference.cache
+D:\Ttip\c# ОАиП\Chapter01\obj\Debug\Chapter01.csproj.CoreCompileInputs.cache
+D:\Ttip\c# ОАиП\Chapter01\obj\Debug\Chapter01.dll
+D:\Ttip\c# ОАиП\Chapter01\obj\Debug\Chapter01.pdb
+D:\Ttip\ДИСЦИПЛИНЫ 3 КУРС\PiTPM\Practicalwork_PiTPM Sakara\Chapter01\bin\Debug\Chapter01.dll
+D:\Ttip\ДИСЦИПЛИНЫ 3 КУРС\PiTPM\Practicalwork_PiTPM Sakara\Chapter01\bin\Debug\Chapter01.pdb
+D:\Ttip\ДИСЦИПЛИНЫ 3 КУРС\PiTPM\Practicalwork_PiTPM Sakara\Chapter01\obj\Debug\Chapter01.csproj.AssemblyReference.cache
+D:\Ttip\ДИСЦИПЛИНЫ 3 КУРС\PiTPM\Practicalwork_PiTPM Sakara\Chapter01\obj\Debug\Chapter01.csproj.CoreCompileInputs.cache
+D:\Ttip\ДИСЦИПЛИНЫ 3 КУРС\PiTPM\Practicalwork_PiTPM Sakara\Chapter01\obj\Debug\Chapter01.dll
+D:\Ttip\ДИСЦИПЛИНЫ 3 КУРС\PiTPM\Practicalwork_PiTPM Sakara\Chapter01\obj\Debug\Chapter01.pdb

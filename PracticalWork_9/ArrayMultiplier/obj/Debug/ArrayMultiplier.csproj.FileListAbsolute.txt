@@ -1,0 +1,6 @@
+D:\Ttip\ДИСЦИПЛИНЫ 3 КУРС\PiTPM\Practicalwork_PiTPM Sakara\PracticalWork_9\ArrayMultiplier\bin\Debug\ArrayMultiplier.dll
+D:\Ttip\ДИСЦИПЛИНЫ 3 КУРС\PiTPM\Practicalwork_PiTPM Sakara\PracticalWork_9\ArrayMultiplier\bin\Debug\ArrayMultiplier.pdb
+D:\Ttip\ДИСЦИПЛИНЫ 3 КУРС\PiTPM\Practicalwork_PiTPM Sakara\PracticalWork_9\ArrayMultiplier\obj\Debug\ArrayMultiplier.csproj.AssemblyReference.cache
+D:\Ttip\ДИСЦИПЛИНЫ 3 КУРС\PiTPM\Practicalwork_PiTPM Sakara\PracticalWork_9\ArrayMultiplier\obj\Debug\ArrayMultiplier.csproj.CoreCompileInputs.cache
+D:\Ttip\ДИСЦИПЛИНЫ 3 КУРС\PiTPM\Practicalwork_PiTPM Sakara\PracticalWork_9\ArrayMultiplier\obj\Debug\ArrayMultiplier.dll
+D:\Ttip\ДИСЦИПЛИНЫ 3 КУРС\PiTPM\Practicalwork_PiTPM Sakara\PracticalWork_9\ArrayMultiplier\obj\Debug\ArrayMultiplier.pdb
